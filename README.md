@@ -290,11 +290,11 @@ Once integrated with the developed software, this device holds promising applica
 This repository encourages collaboration and contributions from the community. Developers, researchers, and enthusiasts can explore, extend, and enhance the device's capabilities, fostering innovation in wearable technology and computer vision applications.
 
 ## Authors
-- [@Diptorshi Tripati](https://www.github.com/dippodahippo)
+- [@Diptorshi Tripathi](https://www.github.com/dippodahippo)
 - [@Rishika Ghosh](https://www.github.com/)
 - [@Srujana Gayatri Chaganti](https://www.github.com/5rujana)
 - [@Raj Aryan Das](https://www.github.com/raj-dash)
-- [Usyad](https://www.github.com/)
-- [Snehadipa Mukharjee](https://www.github.com/)
-
+- [@Usayd Taqaddus Hussain Savanur](https://www.github.com/)
+- [@Snehadipa Mukharjee](https://www.github.com/)
+- 
 ### The images were all procured by our team and are not for public use.
